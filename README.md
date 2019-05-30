@@ -1,5 +1,5 @@
 # Car-Recommendation-System
 
-engineSize is in L.
+This is a simple project from Knowledge Representation and Reasoning course.
 
-fuelConsume is in L/100km
+**note: engineSize is in L, fuelConsume is in L/100km.**
