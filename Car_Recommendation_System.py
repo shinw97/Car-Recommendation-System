@@ -27,6 +27,7 @@ if __name__ == '__main__':
  5. Pickup""")
 	t = int(input("Your selection: "))
 	with open('car_info.csv', newline='') as f:
+	with open('Spreadsheet.csv', newline='') as f:
 		reader = csv.reader(f)
 		next(reader)
 		row_num = len(open("Spreadsheet.csv").readlines()) - 1
